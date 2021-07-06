@@ -12,3 +12,4 @@ else
 printf("Thecharacterwasnotfound\n");
 return 0;
 }
+
